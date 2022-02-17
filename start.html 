@@ -9,7 +9,7 @@
 <body>
     <h1>Anti-Racism</h1> 
     <img src ="https://media.istockphoto.com/photos/stop-racism-word-cloud-on-asphalt-concept-of-fighting-discrimination-picture-id1253103314?s=612x612" alt="We are all equal" width="200px" height="200px">
-    <a href= "Anti-Racism.html">click here to see my Reasons </a>
+    <iframe frameBoarder="0" src="navigation.html"></iframe>
 </body>
 </html>  
 
