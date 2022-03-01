@@ -2,4 +2,7 @@
 
 body{
     font-family: 'League Gothic', sans-serif;
+} 
+h1{
+    font-weight: lighter; 
 }
