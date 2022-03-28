@@ -3,10 +3,12 @@
 body{
     font-family: 'League Gothic', sans-serif; 
     background-color:green;
-    color:white;
+    color:rgb(6, 46, 6); 
+    font-size: 20px;
 } 
 h1{ 
     font-weight:lighter; 
+    color:azure; 
 } 
 input[type=submit]{
 background-color:red;
